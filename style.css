@@ -1,0 +1,64 @@
+/* styles.css */
+.first{
+    width: 100%;
+    height: 150px;
+    background-color: blue;
+}
+/* end of first div */
+
+/* start of second div */
+
+.second{
+    height: 150px;
+    background-color: blanchedalmond;
+    display: flex;
+}
+/* end of second div*/
+
+/* start of second-right div */
+.second-left{
+    height: 150px;
+    width: 50%;
+    background-color: cyan;
+}
+/* end of second-left div */
+
+/* start of .second-right div */
+.second-right{
+    height: 150px;
+    width: 50%;
+    background-color: darkorchid;
+}
+/* end of second-right div */
+
+/* start of third div */
+.third{
+    height:150px ; 
+    background-color: deeppink;
+    display: flex;
+}
+/* end of third div */ 
+
+/* strart of example div */
+.example-div{
+    height: 350px;
+    display: flex;
+    /* text-align: center; */
+}
+.example-left{
+    height: 350px;
+    width: 50%;
+    text-align: center;
+}
+.example-right{
+    height: 350px;
+    width: 50%;
+}
+img{
+    height: 350px;
+    width: 80%;
+}
+p{
+    font-size: x-large;
+}
+
